@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World, I'm Ricardo Ferreira 👋
 
+<hr>
+
+<ul>
+  <li>Cursando o tecnólogo em Analise e Desenvolvimento na FATEC de Indaiatuba/SP</li>
+  <li>Por enquanto trabalhando na area de faturamento, mas buscando uma oportunidade de alocação no mercado de desenvolvimento</li>
+  <li>Meta de ser fullstack no futuro</li>
+</ul>
 <!--
 **RicardoLucFerreira/RicardoLucFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
